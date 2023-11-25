@@ -1,4 +1,4 @@
-import Nav from "react-bootstrap/Nav";
+// import Nav from "react-bootstrap/Nav";
 
 export default function Navbar() {
   return (
@@ -11,3 +11,4 @@ export default function Navbar() {
     </nav>
   );
 }
+
